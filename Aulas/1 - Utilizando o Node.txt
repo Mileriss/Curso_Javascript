@@ -1,0 +1,17 @@
+O Node JS é um aliado do JavaScript e é utilizado em conjunto para diversas operações realizadas no código.
+
+BAIXAR O NODE JS
+Para realizar o Download do Node JS basta ir até o site oficial da plataforma e realizar a instalação da versão estável:
+- Link para download: https://nodejs.org/pt-br/
+- Baixar para Windows(x64) Versão recomendada para maioria dos usuários
+- Instalar o NodeJS
+
+UTILIZANDO O NODEJS
+O Node JS vai ser utilizado para realizar operações sem a necessidade de criar um documento HTML
+Veja como utilizar:
+- Abra o 'prompt de comando' ou digite 'CMD' na barra de pesquisa do computador
+- Entre na pasta que contem os arquivos com extensão .js
+  - Para entrar na pasta basta copiar o caminho da pasta, digitar 'chdir' no prompt e colar o caminho
+  - Digite 'node <nome_arquivo.js>' e tecle 'Enter'
+- O prompt vai exibir os comandos que foram escritos no arquivo javascript sem a necessidade de um outro documento.
+
