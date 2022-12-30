@@ -8,6 +8,7 @@ RETURN - Vai retornar o que for especificado, é uma maneira de retornar uma aç
 - Qualquer código escrito após o return não será interpretado pelo programa
 */
 
+//Indicando o uso do return
 function nome(){
     var nome = "Rafael "
     var sobrenome = "Mileris "
