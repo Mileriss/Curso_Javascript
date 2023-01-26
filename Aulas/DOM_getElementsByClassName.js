@@ -51,8 +51,9 @@ for(elementos of exemplo4){
     window.alert("Elementos da classe 'exemplo4':  " + elementos.innerHTML)
 }
 
-//Criando um array com todos os elementos na classe "exemplo5" e não alterando nada
+//Criando um array com todos os elementos na classe "exemplo5" e atribuindo uma nova classe
 let exemplo5 = [...document.getElementsByClassName("exemplo5")]
-
-
+exemplo5.map((elementos)=>{
+    elementos.classList.add("nova-classe")
+})
 
