@@ -1,0 +1,45 @@
+.exemplos{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 10%;
+    margin: 10px 0;
+    padding: 10px;
+    height: auto;
+    width: 25%;
+    cursor: pointer;
+    font-weight: bold;
+}
+.exemplos:hover{
+    border: 3px solid red;
+}
+
+.exemplo1{
+    background-color: black;
+    color: white;
+}
+
+.exemplo2{
+    background-color: grey;
+    color: white;
+}
+
+.exemplo3{
+    background-color: blue;
+    color: white;
+}
+
+.exemplo4{
+    background-color: coral;
+    color: black;
+}
+
+.exemplo5{
+    background-color: crimson;
+    color: white;
+}
+
+.nova-classe{
+    border: 10px solid blue;
+}
